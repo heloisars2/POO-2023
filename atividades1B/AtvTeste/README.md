@@ -7,8 +7,6 @@
  * Aluna: Heloísa Raquel Siebeneichler
  */
 
-//package tanana; 
-//import blablabla;
 
  public class AtvTeste  //declaração da classe
 {
