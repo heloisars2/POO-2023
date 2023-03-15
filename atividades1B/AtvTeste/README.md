@@ -1,7 +1,7 @@
 # Atividade Teste
 
 /*Classe de impresão de texto: AtvTeste.java
- * IFPR - Campus CAscavel
+ * IFPR - Campus Cascavel
  * Disciplina: Programação Orientada a Objetos
  * Professor: Nelson Bellincanta
  * Aluna: Heloísa Raquel Siebeneichler
