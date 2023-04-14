@@ -9,7 +9,7 @@ b) Atribuir o produto de variáveis b e c para a variável a;
 c) Utilizar um comentário para afirmar que um programa executa um cálculo de exemplo de folha de pagamento.
 
 ```
-/*Classe de impresão de texto: Atv01.java
+/*Classe de impresão de texto: Atv02.java
  * IFPR - Campus Cascavel
  * Disciplina: Programação Orientada a Objetos
  * Professor: Nelson Bellincanta
