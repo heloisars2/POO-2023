@@ -5,7 +5,7 @@
 
 
 ```
-/*Classe de impresão de texto: AtvTeste.java
+/*Classe de impresão de texto: Atv01.java
  * IFPR - Campus Cascavel
  * Disciplina: Programação Orientada a Objetos
  * Professor: Nelson Bellincanta
