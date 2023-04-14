@@ -1,11 +1,17 @@
-#Atv01
+# Atv01
 
 * Objetivo da atividade: Crie uma classe em Java que seja capaz de apresentar a soma de todos os argumentos inteiros ou reais recebidos. Argumentos inválidos devem ser desconsiderados sem provocar a exibição de erros ou exceções.
 
 
 
-
 ```
+/*Classe de impresão de texto: AtvTeste.java
+ * IFPR - Campus Cascavel
+ * Disciplina: Programação Orientada a Objetos
+ * Professor: Nelson Bellincanta
+ * Aluna: Heloísa Raquel Siebeneichler
+ */
+ 
 import java.util.Scanner; //importa classe Scanner 
 import java.io.IOException;// importa classe IOException 
 
