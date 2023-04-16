@@ -5,7 +5,7 @@ Adicione a Atv04 (sem alterar as linhas existentes) o cálculo para a média men
 
 
 ```
-/*Classe de impresão de texto: Atv04.java
+/*Classe de impresão de texto: Atv05.java
  * IFPR - Campus Cascavel
  * Disciplina: Programação Orientada a Objetos
  * Professor: Nelson Bellincanta
